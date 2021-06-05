@@ -4,8 +4,10 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Sassbox-1</title>
+        <title>Welcome to Radisson Group</title>
         <!-- Bootstrap-4 -->
+        <link rel="stylesheet" href="css/slick-theme.css">
+        <link rel="stylesheet" href="css/slick.css">
         <link rel="stylesheet" href="css/plugins/bootstrap.min.css">
         <!-- Font Awsome -->
         <link
@@ -83,7 +85,7 @@
         <!-- ========== End Navbar ==========-->
 
         <!-- ========== Start Slider ==========-->
-        <section class="slider d-flex align-items-center">
+        <section class="slider_one d-flex align-items-center">
             <div class="shapes">
                 <div class="shape-1"><img src="images/shape-1.svg" alt="shape"></div>
                 <div class="shape-2"><img src="images/shape-2.svg" alt="shape"></div>
@@ -616,33 +618,117 @@
                 </div>
             </div>
         </section>
-          <section class="container1">
-              <h2>Our  Partners</h2>
-               <div class="customer-logos slider">
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg">
+
+            <!-- ============================ Featured Instructor Start ================================== -->
+            <section class="pt-0">
+                <div class="container">
+                
+                    <div class="row justify-content-center">
+                        <div class="col-lg-5 col-md-6 col-sm-12">
+                            <div class="sec-heading center">
+                                <p>Meet Instructors</p>
+                                <h2><span class="theme-cl">Top & Famous</span> Instructor in Your City</h2>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                        
+                            <div class="four_slide-dots articles arrow_middle">
+                                
+                                <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-1.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Daniel Diwansker</a></h4>
+                                            <span>Web Designer</span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                  <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-1.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Daniel Diwansker</a></h4>
+                                            <span>Web Designer</span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-2.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Shilpa Singh</a></h4>
+                                            <span>Team Manager</span>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-3.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Adam Wistom</a></h4>
+                                            <span>Sales Manager</span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-4.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Ragini Singh</a></h4>
+                                            <span>Business Executing</span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Single Slide -->
+                                <div class="singles_items">
+                                    <div class="instructor_wrap">
+                                        <div class="instructor_thumb">
+                                            <a href="instructor-detail.html"><img src="images/user-5.jpg" class="img-fluid" alt=""></a>
+                                        </div>
+                                        <div class="instructor_caption">
+                                            <h4><a href="instructor-detail.html">Daniel Wilson</a></h4>
+                                            <span>HR Manager</span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        
+                        </div>
+                    </div>
+                    
                 </div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg">
-                </div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg">
-                </div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg">
-                </div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg">
-                </div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
-                  <div class="slide">
-                    <img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg">
-                </div>
-               </div>
             </section>
+            <!-- ============================ Featured Instructor End ================================== -->
+
         <!-- ========== End Ready ==========-->
 
         <!-- ========== Start Footer ==========-->
