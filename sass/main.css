@@ -614,7 +614,7 @@ form.form-inline .form-group input.form-control {
   content: none;
 }
 
-.slider {
+.slider_one {
   background: #e8f5f7;
   height: 1000px;
   position: relative;
@@ -716,12 +716,12 @@ form.form-inline .form-group input.form-control {
     background: #e8f5f7 !important;
     border-bottom: 1px solid rgba(106, 118, 149, 0.2);
   }
-  .slider {
+  .slider_one {
     text-align: center;
     padding: 200px 0;
     height: auto !important;
   }
-  .slider .content {
+  .slider_one .content {
     margin-bottom: 50px;
   }
   .how-work {
@@ -791,12 +791,12 @@ form.form-inline .form-group input.form-control {
     background: #e8f5f7;
     border-bottom: 1px solid rgba(106, 118, 149, 0.2);
   }
-  .slider {
+  .slider_one {
     text-align: center;
     padding: 200px 0;
     height: auto !important;
   }
-  .slider .content {
+  .slider_one .content {
     margin-bottom: 50px;
   }
   .how-work {
@@ -866,12 +866,12 @@ form.form-inline .form-group input.form-control {
     background: #e8f5f7;
     border-bottom: 1px solid rgba(106, 118, 149, 0.2);
   }
-  .slider {
+  .slider_one {
     padding: 200px 0;
     padding-top: 250px;
     height: auto !important;
   }
-  .slider .content {
+  .slider_one .content {
     margin-bottom: 50px;
   }
   .how-work {
