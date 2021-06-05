@@ -28,11 +28,11 @@ function inViewport($el) {
   return Math.max(0, t > 0 ? H - t : b < H ? b : H);
 }
 
-$(window).on("scroll resize", function () {
-  var window_offset = inViewport($(".intro"));
-  $(".overlay").height(window_offset);
-  $(".caption").css("bottom", window_offset / 4);
-});
+// $(window).on("scroll resize", function () {
+//   var window_offset = inViewport($(".intro"));
+//   $(".overlay").height(window_offset);
+//   $(".caption").css("bottom", window_offset / 4);
+// });
 
 $(document).ready(function(){
     $('.customer-logos').slick({

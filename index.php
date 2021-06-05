@@ -98,9 +98,9 @@
                 <div class="row d-flex align-items-lg-center">
                     <div class="col-md-6">
                         <div class="content">
-                            <h2 class="h2 mb-10">Build Your Proffessional Website</h2>
-                            <p class="p-1 mb-20">Radisson Digitial Technologies Is One of the Prominent Software Firm.</p>
-                            <a href="#0" class="btn-blue">Buy Now</a>
+                            <h2 class="h2 mb-10">Local Expertise, Global presence</h2>
+                            <p class="p-1 mb-20">Radisson Digital Technologies Is One of the Prominent Software Firm.</p>
+                           <!-- <a href="#0" class="btn-blue">Buy Now</a>-->
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -342,24 +342,35 @@
                 </div>
             </div>
         </section>
-                    <figure class="intro">
+<figure class="intro">
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/diver2.jpg" alt="" />
   <figcaption class="caption">
-    <h1>Invasion</h1>
-    <h1>Invasion</h1>
-    <h1>Invasion</h1>
-    <h5>Invasion</h5>
+  <div class="container">
+        <div class="row">
+        <!-- Box-1 -->
+        <div class="col-md-6">
+            <h1>Misson</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis dolores dolorum, error est excepturi exercitationem hic iusto minus nam officia optio quasi tempore voluptatibus. Aut dolore in nostrum quae voluptatem!</p>
+        </div>
+        <!-- Box-1 -->
+        <div class="col-md-6">
+            <h1>Visson</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis dolores dolorum, error est excepturi exercitationem hic iusto minus nam officia optio quasi tempore voluptatibus. Aut dolore in nostrum quae voluptatem!</p>
+        </div>
+    </div>
+</div>
   </figcaption>
+  
   <span class="overlay">
     <svg version="1.1" id="circle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 250" enable-background="new 0 0 500 250" xml:space="preserve" PreserveAspectRatio="none">
       <path fill="#FFFFFF" d="M250,246.5c-97.85,0-186.344-40.044-250-104.633V250h500V141.867C436.344,206.456,347.85,246.5,250,246.5z" />
     </svg>
   </span>
 </figure>
-<article class="copy">
+<!-- <article class="copy">
   <p class="teaser">Scroll down to see the effect. Actually I just wanted to code a layout idea with a curved cut header image, but ended up with this one. Even though it looks fine and performance quite good, I dislike the idea of having an inline svg in the markup, that only has an asthetic/design function. Any ideas on how to improve this pen are welcome.</p>
   <p>If you browsing with Chrome, make sure you have the "experimental Web Platform features" enabled (go to chrome://flags/), to see image's mix-blend-mode effect.</p>
-</article>
+</article> -->
         <!-- ========== End Offers ==========-->
 
         <!-- ========== Start Counter ==========-->
