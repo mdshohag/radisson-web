@@ -498,8 +498,8 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-5 col-md-6 col-sm-12">
                             <div class="sec-heading center">
-                                <p>Popular Category</p>
-                                <h2><span class="theme-cl">Hot & Popular</span> Category For Learn</h2>
+                                <p></p>
+                                <h2>Our Most Popular Software</h2>
                             </div>
                         </div>
                     </div>
@@ -511,7 +511,7 @@
                                     <a class="pic-main" href="#"><img src="images/content.png" class="img-fluid" alt="" /></a>
                                 </div>
                                 <div class="edu_cat_data">
-                                    <h4 class="title"><a href="#">Development</a></h4>
+                                    <h4 class="title"><a href="#">ERP solution software</a></h4>
                                    
                                 </div>
                             </div>                          
@@ -523,7 +523,7 @@
                                     <a class="pic-main" href="#"><img src="images/briefcase.png" class="img-fluid" alt="" /></a>
                                 </div>
                                 <div class="edu_cat_data">
-                                    <h4 class="title"><a href="#">Business</a></h4>
+                                    <h4 class="title"><a href="#">Point of Sale (POS)</a></h4>
                                 </div>
                             </div>                          
                         </div>
@@ -534,7 +534,7 @@
                                     <a class="pic-main" href="#"><img src="images/career.png" class="img-fluid" alt="" /></a>
                                 </div>
                                 <div class="edu_cat_data">
-                                    <h4 class="title"><a href="#">Accounting</a></h4>
+                                    <h4 class="title"><a href="#">Accounting Software</a></h4>
                                 </div>
                             </div>                          
                         </div>
@@ -545,7 +545,7 @@
                                     <a class="pic-main" href="#"><img src="images/python.png" class="img-fluid" alt="" /></a>
                                 </div>
                                 <div class="edu_cat_data">
-                                    <h4 class="title"><a href="#">IT & Software</a></h4>
+                                    <h4 class="title"><a href="#">School Management Software</a></h4>
                                 </div>
                             </div>                          
                         </div>
@@ -747,7 +747,7 @@
             <div class="container">
                 <div class="row">
                     <!-- Who We Are -->
-                    <div class="col-md-4">
+                    <!-- <div class="col-md-4">
                         <div class="who">
                             <h4 class="h4 mb-20">About Us</h4>
                             <img src="images/logo.png" alt="" class="mb-15">
@@ -755,9 +755,9 @@
                                 Corporis dolores dolorum, error est excepturi exercitationem hic iusto minus nam
                                 officia optio quasi tempore voluptatibus Aut dolore.</p>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Links -->
-                    <div class="col-md-2">
+                    <!-- <div class="col-md-2">
                         <div class="links">
                             <h4 class="h4 mb-20">Links</h4>
                             <ul>
@@ -781,9 +781,9 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Links-2 -->
-                    <div class="col-md-2">
+                    <!-- <div class="col-md-2">
                         <div class="links">
                             <h4 class="h4 mb-20">Help</h4>
                             <ul>
@@ -807,11 +807,12 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Social -->
-                    <div class="col-md-3">
+                    <div class="col-md-12">
+                        <center>
                         <div class="social">
-                            <h4 class="h4 mb-20">Social Media</h4>
+                            <!-- <h4 class="h4 mb-20">Social Media</h4> -->
                             <div class="icons">
                                 <div class="ico">
                                     <div class="icon d-flex justify-content-center align-items-center">
@@ -851,6 +852,7 @@
                                 </div>
                             </div>
                         </div>
+                        </center>
                     </div>
                 </div>
             </div>
@@ -858,7 +860,9 @@
         </footer>
         <div class="bottom text-center">
             <span>© Copyright 2018 Radisson Digital Technologies Limited.| Powered by RDTL</span>
+            
         </div>
+        
         <!-- ========== End Footer ==========-->
 
         <!-- ========== Javascript ==========-->

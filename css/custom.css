@@ -86,6 +86,7 @@
 /*New section*/
 .sec-heading {
     margin-bottom: 2rem;
+    margin-top: 3rem;
 }
 .sec-heading.lg {
     margin-bottom: 30px;
@@ -164,6 +165,11 @@
 }
 .edu_cat_2.cat-1 {
     background: rgba(0, 173, 182, .1);
+}
+.edu_cat_2:hover {
+
+    box-shadow: 6px 5px 20px rgb(33 33 33 / 60%);
+    transform: scale(1.1); 
 }
 .edu_cat_2.cat-1 h4>a {
     color: #00adb6;
@@ -527,4 +533,10 @@ ul.social_info li a {
     background: 0 0!important;
     color: #5e6c92;
 }
-.
+.sec-heading p {
+    margin-bottom: 0;
+    line-height: 1.2;
+}
+
+
+background-color: rgba(255, 255, 255, 0.00);
